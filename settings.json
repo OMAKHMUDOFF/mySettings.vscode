@@ -1,0 +1,126 @@
+{
+  "workbench.iconTheme": "catppuccin-perfect-dark",
+  "workbench.colorTheme": "Kya",
+  "explorer.confirmDelete": false,
+  "files.autoSave": "afterDelay",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ],
+
+  /*КУРСОР*/
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 2,
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.titleBarStyle": "custom",
+  "explorer.confirmDragAndDrop": false,
+  "workbench.startupEditor": "none",
+  "editor.smoothScrolling": true,
+  "breadcrumbs.enabled": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  "editor.parameterHints.cycle": false,
+  "editor.parameterHints.enabled": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.lineHeight": 23,
+  "ecsstractor_port.add_comment": false,
+  "ecsstractor_port.empty_line_before_nested_selector": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "background.windowBackgrounds": [
+    "c:/Users/OTABEK/Downloads/bg_no_katana.png"
+  ],
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "liveSassCompile.settings.showOutputWindowOn": "None",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "background.editorBackgrounds": [],
+  "background.sidebarBackgrounds": [],
+  "workbench.productIconTheme": "fluent-icons",
+
+  "editor.fontFamily": "Fira Code Medium, monospace",
+  "editor.fontLigatures": "'ss04'",
+  "terminal.integrated.fontFamily": "Fira Code Medium, monospace",
+  "editor.fontSize": 14,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "indentRainbow.indicatorStyle": "light",
+  "indentRainbow.lightIndicatorStyleLineWidth": 1,
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.3)",
+    "rgba(127,255,127,0.3)",
+    "rgba(255,127,255,0.3)",
+    "rgba(79,236,236,0.3)"
+  ],
+  "editor.rulers": [],
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "editor.glyphMargin": false,
+  "explorer.compactFolders": false,
+  "editor.minimap.enabled": false,
+  "workbench.activityBar.location": "top",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "editor.wordWrap": "bounded",
+  "editor.wrappingIndent": "same",
+  "editor.wordWrapColumn": 80,
+  // Скрытие кода
+  // "editor.folding": false,
+  //
+  // "editor.hover.enabled": false
+  //задержка подсказок
+  "editor.quickSuggestionsDelay": 0,
+  //скрытие scrollbar'ов
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  //product icontheme
+  "window.density.editorTabHeight": "compact",
+  "window.commandCenter": false,
+  "terminal.integrated.fontFamily": "Fira Code Medium",
+  "terminal.integrated.tabs.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
