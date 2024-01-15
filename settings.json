@@ -61,9 +61,6 @@
   "files.associations": {
     "*.js": "javascriptreact"
   },
-  "background.windowBackgrounds": [
-    "c:/Users/OTABEK/Downloads/bg_no_katana.png"
-  ],
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
